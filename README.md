@@ -1,83 +1,100 @@
-Codify — AI Code Reviewer 🚀 (:rocket:)
-Live Demo 🌐 (:globe_with_meridians:)
+# Codify — AI Code Reviewer 🚀 (:rocket:)
 
-📋 (:clipboard:) Project Overview
-Codify is an intelligent, web-based AI code reviewer that helps developers improve their code quality, identify mistakes, and follow best practices — in real time! 🧠 (:brain:)
-Simply paste your code, select the language, and let Codify + Gemini AI suggest improvements and fixes.
+[🌐 Live Demo (:globe_with_meridians:)](https://ai-code-revewier.netlify.app/)
 
-✨ (:sparkles:) Features
-📝 (:memo:) Code editor to write or paste your code
+---
 
-🎯 (:dart:) Language selection from a dropdown
+## 📋 (:clipboard:) Project Overview
 
-📊 (:bar_chart:) Instant feedback on code quality
+Codify is a web-based, intelligent AI-powered code reviewer 🌟.  
+It helps developers improve their code quality, identify mistakes, and learn best practices instantly 🧠 (:brain:).  
+You just paste your code, select the language, and Codify + Gemini AI review it and give you feedback.  
 
-🪄 (:magic_wand:) Suggestions & corrected code
+---
 
-🔄 (:arrows_counterclockwise:) Reset editor with one click
+## ✨ (:sparkles:) Features
 
-🌟 (:star2:) Fully responsive & easy to use
+- 📝 (:memo:) Write or paste code in the editor  
+- 🎯 (:dart:) Select your programming language  
+- 📊 (:bar_chart:) Get a quality rating for your code  
+- 🪄 (:magic_wand:) Suggestions and corrected code snippet  
+- 🔄 (:arrows_counterclockwise:) Reset the editor with one click  
+- 🌟 (:star2:) Fully responsive and user-friendly UI  
+- 🧩 (:jigsaw:) Future-ready with plans for login and history  
 
-🧩 (:jigsaw:) Future-ready for user accounts & history
+---
 
-🌈 (:rainbow:) Tech Stack
-⚛️ (:atom_symbol:) Frontend: React.js + Next.js
+## 🌈 (:rainbow:) Tech Stack
 
-🎨 (:art:) Styling: TailwindCSS
+- ⚛️ (:atom_symbol:) **Frontend:** React.js + Next.js  
+- 🎨 (:art:) **Styling:** TailwindCSS  
+- 💻 (:computer:) **Backend:** Next.js API Routes  
+- 🤖 (:robot:) **AI Service:** Gemini API  
+- ☁️ (:cloud:) **Deployment:** Vercel & Netlify  
 
-💻 (:computer:) Backend: Next.js API routes
+---
 
-🤖 (:robot:) AI Service: Gemini API
+## 🚀 (:rocket:) Getting Started
 
-☁️ (:cloud:) Deployment: Vercel & Netlify
+### 🧰 (:toolbox:) Prerequisites
 
-🚀 (:rocket:) Getting Started
-🧰 (:toolbox:) Prerequisites
-Node.js >= 18.x
+- Node.js >= 18.x
+- npm or yarn
+- Gemini API Key
 
-npm or yarn
+---
 
-Gemini API Key
+### 📦 (:package:) Installation
 
-📦 (:package:) Installation
-bash
-Copy
-Edit
+```bash
+# Clone the repository
 git clone https://github.com/your-username/codify.git
+
+# Navigate into the project folder
 cd codify
+
+# Install dependencies
 npm install
 🔥 (:fire:) Running Locally
 bash
 Copy
 Edit
+# Start the development server
 npm run dev
-Visit http://localhost:3000
+Visit http://localhost:3000 to view it in your browser.
 
 🌐 (:globe_with_meridians:) Live Link
-👉 Check it out here:
+👉 Experience Codify live:
 https://ai-code-revewier.netlify.app/
 
 🔒 (:lock:) Security & Best Practices
-✅ All communication over HTTPS
+✅ Uses HTTPS for secure communication
 
-🔐 API keys secured in environment variables
+🔐 API keys are secured on the backend (never exposed)
 
-🔎 Inputs validated to prevent misuse
+🔎 Validates all user inputs to prevent misuse
 
-♻️ Backups & monitoring recommended
+♻️ Regular backups & monitoring are recommended for production
 
 🛠️ (:hammer_and_wrench:) Future Scope
-📂 User login & history
+📂 Add user login and save review history
 
-👥 Team collaboration
+👥 Enable team collaboration and sharing
 
-📱 Mobile-first UI improvements
+📱 Improve mobile responsiveness & offline support
 
-⚙️ Advanced review settings
+⚙️ Advanced feedback customization and smarter AI models
 
 🙌 (:raised_hands:) Contributing
-Contributions are welcome! Fork the repo, make changes, and submit a pull request.
+Contributions are welcome!
+Fork the repo, create a feature branch, make your changes, and submit a pull request 🚀 (:rocket:).
 
 📝 (:pencil:) License
-MIT License
+This project is licensed under the MIT License.
 
+❤️ (:heart:) Acknowledgements
+Thanks to Gemini AI for powering the code reviews.
+
+Inspired by the idea of making code quality accessible to all developers 🌟.
+
+Made with ❤️ (:heart:) for developers and learners.
